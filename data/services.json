@@ -1,0 +1,8 @@
+[
+  {"id": "cut", "name": "Мужская стрижка", "minutes": 60, "price": 1800},
+  {"id": "clip", "name": "Стрижка машинкой", "minutes": 30, "price": 1000},
+  {"id": "beard", "name": "Моделирование бороды", "minutes": 30, "price": 1200},
+  {"id": "combo", "name": "Стрижка + борода", "minutes": 90, "price": 2700},
+  {"id": "shave", "name": "Королевское бритьё", "minutes": 45, "price": 1500},
+  {"id": "kids", "name": "Детская стрижка (до 12 лет)", "minutes": 45, "price": 1300}
+]
